@@ -1,5 +1,5 @@
 import React from "react";
-import { username, city} from "/home/srimathi/Development/code/phase-2/react-hooks-import-export-lab/src/data/user.js"
+import { username, city} from "../data/user.js"
 
 function Home() {
   return (
